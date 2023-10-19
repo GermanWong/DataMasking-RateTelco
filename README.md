@@ -1,1 +1,1 @@
-# DataMasking-RateTellco
+# DataMasking-RateTelco
